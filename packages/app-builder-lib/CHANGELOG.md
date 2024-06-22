@@ -1,5 +1,20 @@
 # app-builder-lib
 
+## 25.0.0-alpha.10
+
+### Patch Changes
+
+- [#8206](https://github.com/electron-userland/electron-builder/pull/8206) [`51111a87`](https://github.com/electron-userland/electron-builder/commit/51111a87a541ccf826dcd11393b4b3a0e83ca368) Thanks [@ifurther](https://github.com/ifurther)! - feat(appx): Update identityName for windows 10
+
+- [#8245](https://github.com/electron-userland/electron-builder/pull/8245) [`13e0e0d2`](https://github.com/electron-userland/electron-builder/commit/13e0e0d2a272e6111024a28e1c3619dd1769366c) Thanks [@indutny-signal](https://github.com/indutny-signal)! - write asar integrity resource on windows
+
+- Updated dependencies [[`140e2f0e`](https://github.com/electron-userland/electron-builder/commit/140e2f0eb0df79c2a46e35024e96d0563355fc89)]:
+  - builder-util-runtime@9.2.5-alpha.3
+  - dmg-builder@25.0.0-alpha.10
+  - electron-builder-squirrel-windows@25.0.0-alpha.10
+  - builder-util@25.0.0-alpha.10
+  - electron-publish@25.0.0-alpha.10
+
 ## 25.0.0-alpha.9
 
 ### Minor Changes
